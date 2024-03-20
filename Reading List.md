@@ -1,0 +1,3 @@
+- [Willingness to look stupid](https://danluu.com/look-stupid/)
+- [What to learn](https://danluu.com/learn-what/)
+- 
