@@ -1,11 +1,11 @@
 ### What are LLMs?
 
-Paper - [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://arxiv.org/abs/2401.02038) 
-Understand the Transformer model architecture - [Attention is all you need](int n = S.length(); for (int i = 0; i < n / 2; i++) { swap(S[i], S[n - i - 1]); } return S;)
-How to get perfect JSON output from LLMs? - https://github.com/1rgs/jsonformer/
-Finetuning LLMs - [The Novice's LLM Training Guide](https://rentry.org/llm-training)
-Comprehensive list of LLM evals - https://usescholar.org/evals
-Jeremy Howard's lecture on LLMs - [A Hacker's Guide to Language Models](https://youtu.be/jkrNMKz9pWU?si=4PPF5-s4owQP6wCW)
+Paper - [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://arxiv.org/abs/2401.02038)   
+Understand the Transformer model architecture - [Attention is all you need](https://arxiv.org/abs/1706.03762)  
+How to get perfect JSON output from LLMs? - https://github.com/1rgs/jsonformer/  
+Finetuning LLMs - [The Novice's LLM Training Guide](https://rentry.org/llm-training)  
+Comprehensive list of LLM evals - https://usescholar.org/evals  
+Jeremy Howard's lecture on LLMs - [A Hacker's Guide to Language Models](https://youtu.be/jkrNMKz9pWU?si=4PPF5-s4owQP6wCW)  
 
 ### Understanding context windows
 - GPT 4 - 8K - 128K tokens
