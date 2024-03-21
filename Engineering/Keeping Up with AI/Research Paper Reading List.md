@@ -1,0 +1,14 @@
+- Yann LeCun's paper on energy-based models - https://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf  
+- Attention Is All You Need - https://arxiv.org/abs/1706.03762  
+- Self-Rewarding Language Models - https://arxiv.org/abs/2401.10020  
+- ZeroShape: Regression-based Zero-shot Shape Reconstruction - https://arxiv.org/abs/2312.14198  
+- Generative AI Beyond LLMs: System Implications of Multi-Modal Generation - https://arxiv.org/abs/2312.14385  
+- Parameter Efficient Tuning Allows Scalable Personalization of LLMs for Text Entry: A Case Study on Abbreviation Expansion - https://arxiv.org/abs/2312.14327  
+- Exploiting Novel GPT-4 APIs - https://arxiv.org/abs/2312.14302  
+- Supervised Knowledge Makes Large Language Models Better In-context Learners - https://arxiv.org/abs/2312.15918  
+- Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 - https://arxiv.org/abs/2312.16171  
+- Make-A-Character: High Quality Text-to-3D Character Generation within Minutes - https://arxiv.org/abs/2312.15430  
+- GPT-4V(ision) is a Generalist Web Agent, if Grounded - https://arxiv.org/abs/2401.01614  
+- Mixtral of Experts - https://arxiv.org/abs/2401.04088  
+- World of Bits: An Open-Domain Platform for Web-Based Agents - https://proceedings.mlr.press/v70/shi17a/shi17a.pdf  
+
